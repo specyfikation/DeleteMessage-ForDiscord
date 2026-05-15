@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # deletemessage
 
 A Violentmonkey userscript that adds a small panel inside Discord to delete your own messages automatically. Useful if you want to clean up old messages in a specific channel or across an entire server without doing it manually one by one.
@@ -114,3 +115,7 @@ Discord is rate limiting you. Increase the delay to 1500 or 2000ms.
 "# DeleteMessage-ForDiscord" 
 "# DeleteMessage-ForDiscord" 
 "# DeleteMessage-ForDiscord" 
+=======
+# DeleteMessage-ForDiscord
+Delete all message for discord
+>>>>>>> 07d15fc631774b9b4ee146f48824ceacd081d6b0
