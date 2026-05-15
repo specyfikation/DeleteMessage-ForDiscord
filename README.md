@@ -10,7 +10,7 @@ No setup. No installs. Just a small panel that lives inside Discord.
 [![Discord API](https://img.shields.io/badge/Discord%20API-v9-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/developers/docs)
  
 <br>
-[⬇ Install script](https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js) &nbsp;·&nbsp; [View source](https://github.com/specyfikation/DeleteMessage-ForDiscord) &nbsp;·&nbsp; [Report a bug](https://github.com/specyfikation/DeleteMessage-ForDiscord/issues)
+<a href="https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js">⬇ Install script</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord">View source</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord/issues">Report a bug</a>
  
 </div>
 <br>
