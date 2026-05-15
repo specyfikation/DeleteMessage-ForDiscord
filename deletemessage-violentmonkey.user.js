@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         deletemessage
-// @namespace    https://github.com/specyfikation
+// @namespace    deletemessage
 // @homepage     https://github.com/specyfikation
 // @author       specyfikation
 // @version      0.4
