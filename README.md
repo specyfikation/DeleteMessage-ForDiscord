@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="deletemessage banner" width="100%">
+<img src="assets/banner.png" alt="deletemessage banner" width="100%">
 
 <div align="center">
 # 🗑 deletemessage
