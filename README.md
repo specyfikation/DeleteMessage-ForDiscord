@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.png" alt="deletemessage banner" width="100%">
+<img src="https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/banner.png" alt="deletemessage banner" width="100%">
 # 🗑 deletemessage
  
 Bulk delete your own Discord messages - one channel, a whole server, or your entire history.<br>
@@ -141,3 +141,4 @@ MIT
 Made by [specyfikation](https://github.com/specyfikation)
  
 </div>
+ 
