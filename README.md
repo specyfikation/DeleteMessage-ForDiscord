@@ -10,7 +10,7 @@ No setup. No installs. Just a small panel that lives inside Discord.
 [![Discord API](https://img.shields.io/badge/Discord%20API-v9-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/developers/docs)
  
 <br>
-<a href="https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js">⬇ Install script</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord">View source</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord/issues">Report a bug</a>
+<a href="https://github.com/specyfikation/DeleteMessage-ForDiscord/blob/main/deletemessage-violentmonkey.user.js">⬇ Install script</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord">View source</a> &nbsp;·&nbsp; <a href="https://github.com/specyfikation/DeleteMessage-ForDiscord/issues">Report a bug</a>
  
 </div>
 <br>
@@ -47,7 +47,7 @@ Click the Violentmonkey icon in your toolbar → **+** → **Create new script**
  
 **3. Paste and save**
  
-Download [`deletemessage.user.js`](https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js), copy the contents, paste into the editor, hit **Ctrl+S**.
+Download [`deletemessage-violentmonkey.user.js`](https://github.com/specyfikation/DeleteMessage-ForDiscord/blob/main/deletemessage-violentmonkey.user.js), copy the contents, paste into the editor, hit **Ctrl+S**.
  
 **4. Open Discord**
  
@@ -140,3 +140,4 @@ MIT
 Made by [specyfikation](https://github.com/specyfikation)
  
 </div>
+ 
