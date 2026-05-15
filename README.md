@@ -1,26 +1,26 @@
 <div align="center">
 # 🗑 deletemessage
  
-Bulk delete your own Discord messages — one channel, a whole server, or your entire history.<br>
+Bulk delete your own Discord messages - one channel, a whole server, or your entire history.<br>
 No setup. No installs. Just a small panel that lives inside Discord.
  
-[![Version](https://img.shields.io/badge/version-0.4-5865f2?style=flat-square)](https://github.com/specyfikation/deletemessage)
+[![Version](https://img.shields.io/badge/version-0.4-5865f2?style=flat-square)](https://github.com/specyfikation/DeleteMessage-ForDiscord)
 [![Violentmonkey](https://img.shields.io/badge/Violentmonkey-compatible-43b581?style=flat-square)](https://violentmonkey.github.io/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 [![Discord API](https://img.shields.io/badge/Discord%20API-v9-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/developers/docs)
  
 <br>
-[**⬇ Install script**](https://raw.githubusercontent.com/specyfikation/deletemessage/main/deletemessage.user.js) &nbsp;·&nbsp; [View source](https://github.com/specyfikation/deletemessage) &nbsp;·&nbsp; [Report a bug](https://github.com/specyfikation/deletemessage/issues)
+[⬇ Install script](https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js) &nbsp;·&nbsp; [View source](https://github.com/specyfikation/DeleteMessage-ForDiscord) &nbsp;·&nbsp; [Report a bug](https://github.com/specyfikation/DeleteMessage-ForDiscord/issues)
  
 </div>
 <br>
-> **Warning** — Deletions are permanent. There is no undo. This only deletes **your own** messages.
+> **Warning** - Deletions are permanent. There is no undo. This only deletes **your own** messages.
  
 <br>
 ## Features
  
 - Small draggable panel directly inside Discord, no separate tab needed
-- Delete across a whole server — loops through every channel automatically
+- Delete across a whole server - loops through every channel automatically
 - Works in DMs too
 - One click to grab your token automatically
 - Filter by date, by keyword, skip pinned messages
@@ -30,7 +30,7 @@ No setup. No installs. Just a small panel that lives inside Discord.
 ## Requirements
  
 - Chrome or Firefox
-- [Violentmonkey](https://violentmonkey.github.io/) extension — that's it, no Node, no Python, no terminal
+- [Violentmonkey](https://violentmonkey.github.io/) extension - that's it, no Node, no Python, no terminal
 ## Installation
  
 **1. Install Violentmonkey**
@@ -47,7 +47,7 @@ Click the Violentmonkey icon in your toolbar → **+** → **Create new script**
  
 **3. Paste and save**
  
-Download [`deletemessage.user.js`](https://raw.githubusercontent.com/specyfikation/deletemessage/main/deletemessage.user.js), copy the contents, paste into the editor, hit **Ctrl+S**.
+Download [`deletemessage.user.js`](https://raw.githubusercontent.com/specyfikation/DeleteMessage-ForDiscord/main/deletemessage.user.js), copy the contents, paste into the editor, hit **Ctrl+S**.
  
 **4. Open Discord**
  
@@ -67,7 +67,7 @@ Click the 🗑 button to open the panel. Fill in what you need and hit **Start**
 | Delete before | Only delete messages sent before this date |
 | Delete after | Only delete messages sent after this date |
 | Delay (ms) | Time between deletions. Default 1000ms, don't go below 800ms |
-| Skip pinned | Checkbox — leaves your pinned messages untouched |
+| Skip pinned | Checkbox - leaves your pinned messages untouched |
  
 **Which fields to fill:**
  
@@ -98,7 +98,7 @@ Refresh the page. If still nothing, check that the script is enabled in Violentm
  
 **Auto token doesn't work**
  
-Grab it manually from the console — see [Getting your token manually](#getting-your-token-manually) above.
+Grab it manually from the console - see [Getting your token manually](#getting-your-token-manually) above.
  
 **It's going slow or keeps pausing**
  
@@ -116,7 +116,7 @@ Either you have no messages there, or the filters are too narrow. Check your dat
 ## FAQ
  
 **Can it delete messages in DMs?**
-Yes — open the DM, click Auto on the Channel ID field, done.
+Yes - open the DM, click Auto on the Channel ID field, done.
  
 **Does it work in threads?**
 Yes, threads are included when using a Server ID.
@@ -140,4 +140,3 @@ MIT
 Made by [specyfikation](https://github.com/specyfikation)
  
 </div>
- 
