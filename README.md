@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="deletemessage banner" width="100%">
+
 <div align="center">
 # 🗑 deletemessage
  
