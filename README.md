@@ -7,7 +7,7 @@ No setup. No installs. Just a small panel that lives inside Discord.
  
 [![Version](https://img.shields.io/badge/version-0.4-5865f2?style=flat-square)](https://github.com/specyfikation/DeleteMessage-ForDiscord)
 [![Violentmonkey](https://img.shields.io/badge/Violentmonkey-compatible-43b581?style=flat-square)](https://violentmonkey.github.io/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](https://github.com/specyfikation/DeleteMessage-ForDiscord/blob/main/LICENSE)
 [![Discord API](https://img.shields.io/badge/Discord%20API-v9-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/developers/docs)
  
 <br>
