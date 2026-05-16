@@ -138,7 +138,7 @@ MIT
  
  
 <div align="center">
-Made by [specyfikation](https://github.com/specyfikation)
+Made by specyfikation
  
 </div>
  
