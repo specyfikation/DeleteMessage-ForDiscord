@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         deletemessage
 // @namespace    deletemessage
-// @homepage     https://github.com/specyfikation
-// @author       specyfikation
+// @homepage     https://github.com/specyxoxo
+// @author       specyxoxo
 // @version      0.4
 // @description  automatically delete my discord messages
 // @match        https://discord.com/*
